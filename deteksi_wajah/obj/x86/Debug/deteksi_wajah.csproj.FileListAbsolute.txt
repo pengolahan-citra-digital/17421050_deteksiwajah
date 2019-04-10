@@ -1,0 +1,18 @@
+C:\Users\David\AppData\Local\Temporary Projects\deteksi_wajah\obj\x86\Debug\deteksi_wajah.Form1.resources
+C:\Users\David\AppData\Local\Temporary Projects\deteksi_wajah\obj\x86\Debug\deteksi_wajah.Properties.Resources.resources
+C:\Users\David\AppData\Local\Temporary Projects\deteksi_wajah\obj\x86\Debug\deteksi_wajah.csproj.GenerateResource.Cache
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\deteksi_wajah.exe
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\deteksi_wajah.pdb
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\Emgu.CV.dll
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\Emgu.CV.UI.dll
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\Emgu.Util.dll
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\ZedGraph.dll
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\Emgu.CV.xml
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\Emgu.CV.UI.xml
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\bin\Debug\Emgu.Util.xml
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\obj\x86\Debug\deteksi_wajah.Form1.resources
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\obj\x86\Debug\deteksi_wajah.Properties.Resources.resources
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\obj\x86\Debug\deteksi_wajah.csproj.GenerateResource.Cache
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\obj\x86\Debug\deteksi_wajah.exe
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\obj\x86\Debug\deteksi_wajah.pdb
+C:\Users\David\documents\visual studio 2010\Projects\deteksi_wajah\deteksi_wajah\obj\x86\Debug\deteksi_wajah.csprojResolveAssemblyReference.cache
